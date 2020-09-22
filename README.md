@@ -1,12 +1,5 @@
 ### Hi there ,this is Soumendra Panda👋
 
-  <a href="https://www.linkedin.com/in/soumendra-panda-796267151/">
-  <img align="left" alt="Somu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://github.com/somupanda">
-  <img align="left" alt="Somu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-<br>
 About Me-:
 - 🔭 I’m currently working as a Fullstack developer.
 - 🌱 I’m currently learning React Js.
